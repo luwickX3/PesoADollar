@@ -1,0 +1,9 @@
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\bin\Debug\PesoADollar.exe.config
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\obj\Debug\PesoADollar.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\obj\Debug\PesoADollar.Form1.resources
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\obj\Debug\PesoADollar.Properties.Resources.resources
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\obj\Debug\PesoADollar.csproj.GenerateResource.Cache
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\bin\Debug\PesoADollar.exe
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\bin\Debug\PesoADollar.pdb
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\obj\Debug\PesoADollar.exe
+C:\Users\Rodrigo Alexis\source\repos\PesoADollar\PesoADollar\obj\Debug\PesoADollar.pdb
